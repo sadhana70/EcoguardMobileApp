@@ -1,16 +1,8 @@
-# flutter_face_detection
+# EcoGuard
 
-A new Flutter project.
+EcoGuard is a web-based and mobile app-integrated platform designed to detect and prevent illegal poaching and deforestation activities in sensitive ecological areas.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Demo123
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/first.png" alt="first image" width="200"> <img src="screenshots/second.png" alt="second image" width="200">
